@@ -1,0 +1,15 @@
+/*
+*  TypeScript Compile 옵션 설정 파일
+*/
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "outDir": "build" //  Ts code 가 "build"가 될 위치를 지정한다.
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

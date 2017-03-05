@@ -1,0 +1,21 @@
+{
+  "name": "typescrpt_example002",
+  "version": "1.0.0",
+  "description": "타입스크립트 예제(서버사이드 정리)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ByeongGiKim",
+  "license": "MIT",
+  "devDependencies": {
+    "request": "^2.80.0",
+    "response": "^0.18.0",
+    "typescript": "^2.2.1",
+    "typings": "^2.1.0"
+  },
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "keywords": []
+}
